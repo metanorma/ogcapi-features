@@ -3,6 +3,7 @@ metanorma:
   source:
     files:
       - metanorma/ogcapi-features-1/document.adoc
+      - core/standard/17-069.adoc
 
   collection:
     organization: "OGC: The Open Geospatial Consortium"
