@@ -1,0 +1,25 @@
+= OGC API - Features - Part 1: Core (OpenAPI-driven sections)
+:doctype: standard
+:docsubtype: implementation
+:edition: 1.1
+:language: en
+:status: draft
+:committee: technical
+:docnumber: 17-069
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
+:mn-document-class: ogc
+
+== Scope
+
+This document demonstrates the model-based publication of OGC API -
+Features - Part 1: the normative schema sections below are generated
+directly from the official OpenAPI definitions in this repository
+(core/openapi/ogcapi-features-1-oas31.yaml) through
+metanorma-plugin-openapi and lutaml-openapi (metanorma-ogc#153).
+
+[openapi,path=../../core/openapi/ogcapi-features-1-oas31.yaml]
+--
+--
