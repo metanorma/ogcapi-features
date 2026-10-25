@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - metanorma/ogcapi-features-1/document.adoc
+
+  collection:
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - Features (model-based publication)"
