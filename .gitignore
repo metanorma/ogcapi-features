@@ -4,3 +4,4 @@ Thumbs.db
 *.html
 *.pdf
 /extensions/transactions/create-replace-update-delete/executable-tests/ats/__pycache__
+Gemfile.lock
